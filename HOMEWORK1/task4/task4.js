@@ -1,0 +1,1 @@
+const object = {String:"Fiat", Number:500, Boolean:true, Undefined:undefined, Null:null}; 
